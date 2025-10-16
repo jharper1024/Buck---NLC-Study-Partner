@@ -1,0 +1,8 @@
+{
+  "name": "buck-study-partner",
+  "version": "1.0.0",
+  "description": "Buck NLC Study Partner Chat",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
